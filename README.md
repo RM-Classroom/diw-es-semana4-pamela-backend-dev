@@ -12,11 +12,12 @@ Diferente de uma fan page convencional, o site busca proporcionar uma experiênc
 
 ## Print do(s) wireframe(s) criado
 
-
-<<  COLOQUE A IMAGEM AQUI >>
-
-
+![Print do(s) wireframe(s) criado](public/img_readme/wireframe_home_personagens.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+[Print do(s) wireframe(s) criado](public/img_readme/captura_tela_carregamento.png)
+[Print do(s) wireframe(s) criado](public/img_readme/captura_homepage.png)
+[Print do(s) wireframe(s) criado](public/img_readme/captura_homepage2.png)
+[Print do(s) wireframe(s) criado](public/img_readme/captura_personagens.png)
+
